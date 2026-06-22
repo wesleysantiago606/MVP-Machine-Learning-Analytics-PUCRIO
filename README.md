@@ -140,4 +140,4 @@ A métrica principal de seleção foi a **PR-AUC**, adequada à classe minoritá
 
 ## Contexto Acadêmico
 
-Este trabalho aborda a estimação da **Probabilidade de Default (PD)**, um dos três componentes do modelo IRB (*Internal Ratings-Based*) dos Acordos de Basileia II/III, ao lado da LGD (*Loss Given Default*) e da EAD (*Exposure at Default*). Enquanto o MVP anterior cobriu a análise exploratória e o pré-processamento, este MVP realiza a **modelagem preditiva** da PD, da definição do problema à avaliação crítica da solução.
+Este trabalho aborda a estimação da **Probabilidade de Default (PD)**, um dos três componentes do modelo IRB (*Internal Ratings-Based*) dos Acordos de Basileia II/III, ao lado da LGD (*Loss Given Default*) e da EAD (*Exposure at Default*).
